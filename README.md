@@ -65,15 +65,15 @@ The primary objective is to strengthen operational SOC Analyst L1 capabilities t
 
 The primary platforms used throughout this 90-day journey are:
 
-- [Blue Team Labs Online (BTLO)](https://blueteamlabs.online/)
-- [CyberDefenders](https://cyberdefenders.org/p/bahomdagregoire)
-- [TryHackMe](https://tryhackme.com/p/r06u3)
-- [Hack The Box](https://profile.hackthebox.com/profile/019e425f-61b1-7314-970b-85a4a881165e)
-- [LetsDefend](https://letsdefend.io/) — Account access to be restored.
+- [Hack The Box (HTB)](https://profile.hackthebox.com/profile/019e425f-61b1-7314-970b-85a4a881165e?utm_medium=copy_url) — Personal Profile
+- [CyberDefenders](https://cyberdefenders.org/p/bahomdagregoire) — Personal Profile
+- [TryHackMe](https://tryhackme.com/p/r06u3?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=e451007b4ea0&utm_source=copy&share_date=2026-11-05&sharerId=6416032898a943004323f4db) — Personal Profile
+- [Blue Team Labs Online (BTLO)](https://blueteamlabs.online/public/user/9eed454fb5dea4dda3c551) — Personal Profile
+- [LetsDefend](https://letsdefend.io/) — Platform access
 
-These platforms provide practical environments for developing skills in security monitoring, alert triage, threat detection, digital forensics, network analysis and incident response.
+These platforms provide practical scenarios covering security monitoring, alert triage, threat intelligence, network analysis, incident response and digital forensics.
 
-Practical exercises will be selected according to the objectives of each learning phase. Personal investigation reports and technical findings will be documented in this repository.
+The exercises completed on these platforms will be documented through personal technical notes, investigation methodologies and independent analysis.
 
 ## Repository Structure
 
