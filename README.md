@@ -81,8 +81,6 @@ The exercises completed on these platforms will be documented through personal t
 soc-analyst-90-days/
 ├── README.md
 ├── ROADMAP.md
-├── PROGRESS.md
-├── RESOURCES.md
 ├── 01-soc-fundamentals/
 ├── 02-network-analysis/
 ├── 03-siem-analysis/
@@ -109,7 +107,7 @@ Each practical exercise or investigation is documented using a consistent techni
 
 Progress is maintained through daily documentation and practical deliverables.
 
-Refer to [ROADMAP.md](ROADMAP.md) for the learning plan and [PROGRESS.md](PROGRESS.md) for daily progress tracking.
+Refer to [ROADMAP.md](ROADMAP.md) for the learning plan 
 
 ## Disclaimer
 
