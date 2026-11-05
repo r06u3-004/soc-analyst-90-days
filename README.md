@@ -63,12 +63,17 @@ The primary objective is to strengthen operational SOC Analyst L1 capabilities t
 
 ## Practical Learning Platforms
 
-Practical exercises and investigation scenarios are conducted through:
+The primary platforms used throughout this 90-day journey are:
 
-- [LetsDefend](https://letsdefend.io/)
-- [CyberDefenders](https://cyberdefenders.org/)
-- [TryHackMe](https://tryhackme.com/)
-- [Hack The Box](https://www.hackthebox.com/)
+- [Blue Team Labs Online (BTLO)](https://blueteamlabs.online/)
+- [CyberDefenders](https://cyberdefenders.org/p/bahomdagregoire)
+- [TryHackMe](https://tryhackme.com/p/r06u3)
+- [Hack The Box](https://profile.hackthebox.com/profile/019e425f-61b1-7314-970b-85a4a881165e)
+- [LetsDefend](https://letsdefend.io/) — Account access to be restored.
+
+These platforms provide practical environments for developing skills in security monitoring, alert triage, threat detection, digital forensics, network analysis and incident response.
+
+Practical exercises will be selected according to the objectives of each learning phase. Personal investigation reports and technical findings will be documented in this repository.
 
 ## Repository Structure
 
@@ -85,7 +90,7 @@ soc-analyst-90-days/
 ├── 05-incident-response/
 ├── 06-threat-hunting/
 ├── 07-digital-forensics/
-├── 08-online-platforms/
+└── 08-online-platforms/
 ```
 
 ## Documentation Methodology
