@@ -6,9 +6,9 @@
 
 This repository documents a structured 90-day practical learning journey focused on Security Operations Center (SOC) operations and defensive cybersecurity.
 
-It serves as a technical portfolio showcasing practical exercises, security investigations, SIEM analysis, threat detection techniques, incident response procedures and digital forensics.
+It serves as a technical portfolio showcasing practical exercises, security investigations, SIEM analysis, threat detection techniques, incident response procedures, digital forensics, SOC reporting and security automation.
 
-The primary objective is to strengthen operational SOC Analyst L1 capabilities through hands-on labs, realistic security scenarios and structured technical documentation.
+The primary objective is to strengthen operational SOC Analyst L1 capabilities through hands-on labs, realistic security scenarios, technical investigations and structured documentation.
 
 ## Learning Objectives
 
@@ -21,7 +21,9 @@ The primary objective is to strengthen operational SOC Analyst L1 capabilities t
 - Apply incident response methodologies.
 - Develop threat hunting capabilities.
 - Use the MITRE ATT&CK framework to contextualize adversary techniques.
-- Produce structured technical investigation reports.
+- Perform digital forensic investigations.
+- Produce structured technical and executive security reports.
+- Develop scripts and workflows to automate repetitive SOC operations.
 
 ## 90-Day Roadmap
 
@@ -61,6 +63,14 @@ The primary objective is to strengthen operational SOC Analyst L1 capabilities t
 - Autopsy
 - Volatility
 
+**SOC Engineering and Automation**
+- Python
+- Bash
+- PowerShell
+- Git
+- REST APIs
+- GitHub Actions
+
 ## Practical Learning Platforms
 
 The primary platforms used throughout this 90-day journey are:
@@ -69,11 +79,11 @@ The primary platforms used throughout this 90-day journey are:
 - [CyberDefenders](https://cyberdefenders.org/p/bahomdagregoire) — Personal Profile
 - [TryHackMe](https://tryhackme.com/p/r06u3?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=e451007b4ea0&utm_source=copy&share_date=2026-11-05&sharerId=6416032898a943004323f4db) — Personal Profile
 - [Blue Team Labs Online (BTLO)](https://blueteamlabs.online/public/user/9eed454fb5dea4dda3c551) — Personal Profile
-- [LetsDefend](https://letsdefend.io/) — Platform access
+- [LetsDefend](https://letsdefend.io/) — Platform Access
 
 These platforms provide practical scenarios covering security monitoring, alert triage, threat intelligence, network analysis, incident response and digital forensics.
 
-The exercises completed on these platforms will be documented through personal technical notes, investigation methodologies and independent analysis.
+Exercises completed on these platforms will be documented through personal technical notes, investigation methodologies and independent analysis.
 
 ## Repository Structure
 
@@ -81,6 +91,12 @@ The exercises completed on these platforms will be documented through personal t
 soc-analyst-90-days/
 ├── README.md
 ├── ROADMAP.md
+├── assets/
+│   └── images/
+│       ├── architecture/
+│       ├── tools/
+│       ├── screenshots/
+│       └── diagrams/
 ├── 01-soc-fundamentals/
 ├── 02-network-analysis/
 ├── 03-siem-analysis/
@@ -88,7 +104,7 @@ soc-analyst-90-days/
 ├── 05-incident-response/
 ├── 06-threat-hunting/
 ├── 07-digital-forensics/
-└── 08-online-platforms/
+└── 08-soc-engineering-reporting-automation/
 ```
 
 ## Documentation Methodology
@@ -103,11 +119,20 @@ Each practical exercise or investigation is documented using a consistent techni
 6. MITRE ATT&CK mapping, where applicable
 7. Conclusion and lessons learned
 
-## Progress Tracking
+Reports and technical documentation may include screenshots, diagrams, architecture illustrations and relevant visual evidence.
 
-Progress is maintained through daily documentation and practical deliverables.
+## Visual Assets
 
-Refer to [ROADMAP.md](ROADMAP.md) for the learning plan 
+Visual assets used in Markdown documentation are stored centrally in `assets/images/`.
+
+The directory is organized into:
+
+- `architecture/` — Infrastructure and solution architecture diagrams.
+- `tools/` — Tool interfaces and configuration illustrations.
+- `screenshots/` — Relevant screenshots from practical exercises.
+- `diagrams/` — Investigation workflows, attack paths and technical diagrams.
+
+Images are referenced in Markdown using relative paths. Sensitive information, credentials, personal data and confidential platform content must never be published.
 
 ## Disclaimer
 
